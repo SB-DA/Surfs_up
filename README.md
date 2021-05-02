@@ -10,6 +10,11 @@ I needed some real investors to back this plan. So I made a business plan and re
 W. Avy likes the analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 
+## Results
+
+![image](https://user-images.githubusercontent.com/78935551/116819417-024f3700-ab3e-11eb-9603-a16cd11d3f79.png)
+
+
 
 
 
