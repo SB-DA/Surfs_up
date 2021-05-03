@@ -11,18 +11,19 @@ W. Avy likes the analysis, but he wants more information about temperature trend
 
 
 ## Results
-There are really only two seasons in Hawaii: summer (kau) from May to October and winter (hooilo) from November to April. The average daytime summer temperature at sea level is 85° F (29.4° C), while the average daytime winter temperature is 78° (25.6° C).
+There are really only two seasons in Hawaii: summer (kau) from May to October and winter (hooilo) from November to April. The average daytime summer temperature at sea level is 85° F (29.4° C), while the average daytime winter temperature is 78° (25.6° C). 
 
-Usually the southern side of Oahu, including Waikiki and Honolulu along with the southwest coast at Ko Olina recieve a lot of Hawaiian sunshine. So you can head to Oahu anytime of the year.
+Usually the southern side of Oahu, including Waikiki and Honolulu along with the southwest coast at Ko Olina recieve a lot of Hawaiian sunshine. 
 
 - As per results below the average temperature in June is around 75° F. Maximum temperature near 85° F and Minimum around 64° F.
 - Average temperature in December is around 71° F. Maximum around 83° F and lowest around 56° F.
 
 ![image](https://user-images.githubusercontent.com/78935551/116819417-024f3700-ab3e-11eb-9603-a16cd11d3f79.png)
 
-## Summary 
-- The weather looks almost favorable to go ahead and start a Shake shop. But before taking the big decision it's good to run a few more analysis. 
-- It will be good idea to see the Long-Term Weather Trends to check for fu
+## Summary
+While it's always going to be close to impossible to predict exact future weather it’s helpful to look at Hawaiian weather analysis. And the weather looks almost favorable to go ahead and start a Shake shop. But before taking the big decision it's good to run a few more analysis.
 
+- Analysing weather patterns to determine the occurrence of storm, hurricane, or cyclone.
+- Going through the Surf forecast to check the high and low tides. This will help us to determine how favorable the ocean will be for surfing year-round.
 
 
